@@ -1,6 +1,9 @@
 # Car Wise
 An Intelligent Car Selection and Price Prediction System
 
+# Team Members
+Priya Singh - [002951836] Shiwangani Jaiswal - [002749421]
+
 # About Us:
 
 The CarWise project aims to solve the problem of providing valuable insights into the car industry using data analysis techniques. The project is focused on analyzing various aspects of cars such as price range, body type, engine size, and brand to help consumers make informed decisions about cars.
