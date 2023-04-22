@@ -2,7 +2,8 @@
 An Intelligent Car Selection and Price Prediction System
 
 # Team Members
-Priya Singh - [002951836] Shiwangani Jaiswal - [002749421]
+Priya Singh - [002951836] 
+Shiwangani Jaiswal - [002749421]
 
 # About Us:
 
